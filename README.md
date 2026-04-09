@@ -1,7 +1,5 @@
 # 🚀 Process Manager Pro
 
-![Main Window](screenshots/main.png)
-
 ## 📌 Описание проекта
 
 **Process Manager Pro** - продвинутый диспетчер задач Windows с расширенным функционалом управления процессами, потоками и привязкой к ядрам процессора.
